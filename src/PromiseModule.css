@@ -4,6 +4,12 @@
     padding: 0;
     background-color: black;
 }
+.heading{
+    color: red;
+    
+}
+
+
 
 .promise {
     margin: auto;
@@ -11,7 +17,7 @@
     padding: 20px;
 }
 
-.img {
+.img1 {
     width: 300px;
     height: 300px;
 }

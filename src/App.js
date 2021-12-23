@@ -21,7 +21,7 @@ function App() {
 
  console.log("characters", characters);
   return (
-    <div className="App" >
+    <div className="App" style={{ display: "flex", flexWrap: "wrap" }}>
     {characters.map((item) => (
       <div>
 
